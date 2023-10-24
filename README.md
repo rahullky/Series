@@ -1,2 +1,4 @@
-PANDAS
-pandas with series   part 1
+#PANDAS
+
+
+Series part 1
